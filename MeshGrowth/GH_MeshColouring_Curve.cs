@@ -5,6 +5,9 @@ using Grasshopper.Kernel;
 using Rhino.Geometry;
 using System.Drawing;
 
+
+//Note: add descriptive comments to each block of code
+
 namespace MeshGrowth
 {
     public class GH_MeshColouring_Curve : GH_Component
